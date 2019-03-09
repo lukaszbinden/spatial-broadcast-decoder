@@ -1,5 +1,5 @@
 # spatial-broadcast-decoder
-Spatial Broadcast Decoder Implementation using Tensorflow. This implements only the decoder as proposed in the paper.
+Spatial Broadcast Decoder Implementation using Tensorflow v1.12. This implements only the decoder as proposed in the paper.
 
 See the original paper for specifications:
 
